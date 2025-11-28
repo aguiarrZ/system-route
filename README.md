@@ -4,37 +4,34 @@
 
 </div>
 
-**-** Este sistema adiciona rotas de drogas totalmente funcionais ao servidor, incluindo NPCs, checkpoints, animacoes e logica completa de entrega.
+**-** Um sistema completo para **rotas de drogas** em servidores SA-MP, permitindo que os jogadores realizem entregas, recebam recompensas e gerenciem suas rotas de forma dinâmica.
 
 ---
 
-> [!IMPORTANT]
->
-> * Cada jogador recebe sua propria rota.
-> * NPC desaparece apos a entrega.
-> * Jogador ganha dinheiro sujo.
-> * Sistema usa YSI + Streamer.
+## 🔧 Requisitos
+
+* [YSI-Includes](https://github.com/pawn-lang/YSI-Includes)
 
 ---
 
-## 🧩 Recursos do Sistema
+## ⚙️ Funcionalidades
 
-| Funcao | Descricao |
-|-------|-----------|
-| NPC Dinamico | NPC é criado automaticamente no ponto da entrega e removido apos a conclusao. |
-| Checkpoints Individuais | Cada jogador recebe seu proprio checkpoint, evitando conflitos. |
-| Animacoes | Jogador realiza animacao realista ao fazer a entrega. |
-| Rotas Automaticas | Nova rota é criada automaticamente apos cada entrega concluida. |
-| Contador de Entregas | O sistema registra quantas entregas o jogador concluiu. |
-| Dinheiro Sujo | Jogador recebe dinheiro sujo como recompensa. |
+| Funcionalidade    | Descrição                                                                      |
+| ----------------- | ------------------------------------------------------------------------------ |
+| Início da rota    | Jogadores podem iniciar rotas pressionando a tecla **'Y'** no local designado. |
+| Entregas          | Entregas são geradas em **locais aleatórios** pela cidade.                     |
+| Recompensas       | Ao completar entregas, o jogador recebe **dinheiro sujo** e **materiais**.     |
+| Progresso da rota | Sistema de acompanhamento de entregas e conclusão de rotas.                    |
 
-## 📦 Requisitos
+---
 
-| Recurso | Link |
-|--------|------|
-| YSI Includes (necessario para hooks e organizacao) | https://github.com/pawn-lang/YSI-Includes |
-| Streamer Plugin (necessario para NPCs e checkpoints) | https://github.com/samp-incognito/samp-streamer-plugin |
-| ZCMD (opcional, usado para comandos) | https://github.com/Zeex/samp-plugin-zcmd |
+## 💬 Comando
 
-> Certifique-se de que todos os plugins e includes estao instalados corretamente antes de compilar.
+| Comando   | Descrição                                                           |
+| --------- | ------------------------------------------------------------------- |
+| `/irrota` | Teleporta o jogador para o **local de início das rotas de drogas**. |
 
+## 👀 Imagens
+
+![Preview do Sistema](sa-mp-0000038.png)
+![Preview do Sistema](sa-mp-0000038.png)
