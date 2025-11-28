@@ -8,12 +8,6 @@
 
 ---
 
-## 🔧 Requisitos
-
-* [YSI-Includes](https://github.com/pawn-lang/YSI-Includes)
-
----
-
 ## ⚙️ Funcionalidades
 
 | Funcionalidade    | Descrição                                                                      |
@@ -35,3 +29,4 @@
 
 ![Preview do Sistema](sa-mp-0000038.png)
 ![Preview do Sistema](sa-mp-0000038.png)
+
