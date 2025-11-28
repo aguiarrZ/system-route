@@ -27,6 +27,5 @@
 
 ## 👀 Imagens
 
-![Preview do Sistema](sa-mp-0000038.png)
-![Preview do Sistema](sa-mp-0000038.png)
-
+![Preview do Sistema](screenshots/sa-mp-031.png)
+![Preview do Sistema](screenshots/sa-mp-032.png)
