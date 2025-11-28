@@ -1,6 +1,6 @@
 <div align="center">
 
-# ?? Sistema de Rotas de Drogas � SA-MP
+# 🫧 Sistema de Rotas de Drogas – SA-MP
 
 </div>
 
@@ -17,18 +17,18 @@
 
 ---
 
-## ?? Recursos do Sistema
+## 🧩 Recursos do Sistema
 
 | Funcao | Descricao |
 |-------|-----------|
-| NPC Dinamico | NPC � criado automaticamente no ponto da entrega e removido apos a conclusao. |
+| NPC Dinamico | NPC é criado automaticamente no ponto da entrega e removido apos a conclusao. |
 | Checkpoints Individuais | Cada jogador recebe seu proprio checkpoint, evitando conflitos. |
 | Animacoes | Jogador realiza animacao realista ao fazer a entrega. |
-| Rotas Automaticas | Nova rota � criada automaticamente apos cada entrega concluida. |
+| Rotas Automaticas | Nova rota é criada automaticamente apos cada entrega concluida. |
 | Contador de Entregas | O sistema registra quantas entregas o jogador concluiu. |
 | Dinheiro Sujo | Jogador recebe dinheiro sujo como recompensa. |
 
-## ?? Requisitos
+## 📦 Requisitos
 
 | Recurso | Link |
 |--------|------|
@@ -37,3 +37,4 @@
 | ZCMD (opcional, usado para comandos) | https://github.com/Zeex/samp-plugin-zcmd |
 
 > Certifique-se de que todos os plugins e includes estao instalados corretamente antes de compilar.
+
